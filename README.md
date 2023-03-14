@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <Strong>📧Email📧</Strong><br>dmlrud1005@naver.com<br>
+  <Strong>📧Email📧</Strong><br>dmlrud1005@naver.com
 </p>
+
+<br>
 
 <p align="center">
     <Strong>💻Tech Stack💻</Strong><br>
@@ -35,9 +37,14 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=whdwls248&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdwls248&theme=radical&layout=compact" />
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhdwls248%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdwls248&show_icons=true&theme=radical)
